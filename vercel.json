@@ -2,6 +2,10 @@
   "framework": "nextjs",
   "rewrites": [
     {
+      "source": "/",
+      "destination": "/posts"
+    },
+    {
       "source": "/login",
       "destination": "/auth/login"
     }
