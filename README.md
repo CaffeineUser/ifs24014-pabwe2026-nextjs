@@ -1,4 +1,4 @@
-# ifs24029-pabwe2026-p4-nextjs
+# ifs24014-pabwe2026-p4-nextjs
 
 Praktikum 4 PABWE 2026 — **Studi Kasus 2.2: Aplikasi Postingan menggunakan NextJS (TypeScript)**.
 
